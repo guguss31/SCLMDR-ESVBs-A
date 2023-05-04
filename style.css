@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+background: linear-gradient(#4f0818,#00ffb2);
+}
+
+canvas {
+  display: block;
+}
+
+h1{font-size: 100px;
+  color: hsl(0, 0%, 100%);
+}
+
+p{color: rgb(255, 0, 0);
+font-size: 20px;
+
+
+
+
+
+}
