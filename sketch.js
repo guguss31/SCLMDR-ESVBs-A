@@ -35,6 +35,7 @@ function obstacle() {
   if (obstacleX < 0) {
     obstacleX = width
     randomY = int(random(2))
+  score+=1
   }
   if (randomY == 1) {
     obstacleY = 350;
