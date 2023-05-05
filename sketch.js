@@ -61,6 +61,8 @@ function obstacle() {
 }
 
 function mousePressed() {
-  vie = 3
+  vie = 5
+  score=0
   loop()
+  
 }
